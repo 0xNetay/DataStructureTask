@@ -29,5 +29,5 @@ Running Example #3 - Double numbers:
 
 
 ## Authors
-  * `Netay Gidnian | id: 315326926 | <netayg@gmail.com>`
-  * `Nathan Shain | id: 206026478 | <natanx3996@gmail.com>`
+  * `Netay Gidnian`
+  * `Nathan Shain`
